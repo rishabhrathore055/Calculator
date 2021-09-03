@@ -13,7 +13,7 @@ function Calculator(){
 }
 
 function clr(){
-    outputScreen.value = 0;
+    outputScreen.value = "";
 }
 
 function del(){
