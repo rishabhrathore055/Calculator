@@ -6,14 +6,16 @@ function Calculator(){
     try{
         outputScreen.value = eval(outputScreen.value);
     }
-    catch(e){
+    catch(err){
         alert("Invalid Input");
     }
-    function clear_(){
-        outputScreen.value = "";
-    }
-    function del_(){
-        outputScreen.value =outputScreen.value.slice(0,-2);
-    }
     
+}
+
+function clr(){
+    outputScreen.value = 0;
+}
+
+function del(){
+    outputScreen.value = outputScreen.value.slice(0,-2);
 }

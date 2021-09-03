@@ -2,7 +2,8 @@
 **Calculator Built with JavaScript.**
 <div>
 <h3 >Calculator </h3>
-<!--<img  src="image/game.jpg" alt="DesktopView" width = "30%"> -->
+
+<img  src="image/calculator.jpg" alt="DesktopView" width = "30%">
 <div>
 
 ### Tech that Used
@@ -10,7 +11,7 @@
 * CSS
 * JavaScript
 ### Project Deplyed Link
-<a href="http://rishabh.study/Rock_Paper_Scissors" target="_blank">Calculator</a>
+<a href="http://rishabh.study/Calculator/" target="_blank">Calculator</a>
 
 ### Show Your Support
 Give a ⭐ if You Like This Project
