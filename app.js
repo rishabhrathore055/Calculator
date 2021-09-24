@@ -17,5 +17,5 @@ function clr(){
 }
 
 function del(){
-    outputScreen.value = outputScreen.value.slice(0,-2);
+    outputScreen.value = outputScreen.value.slice(0,-1);
 }
