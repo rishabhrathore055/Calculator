@@ -11,7 +11,7 @@
 * CSS
 * JavaScript
 ### Project Deplyed Link
-<a href="http://rishabh.study/Calculator/" target="_blank">Calculator</a>
+<a href="https://rishabhrathore055.github.io/Calculator/" target="_blank">Calculator</a>
 
 ### Show Your Support
 Give a ⭐ if You Like This Project
